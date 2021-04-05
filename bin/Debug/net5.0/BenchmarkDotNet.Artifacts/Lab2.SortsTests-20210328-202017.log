@@ -1,0 +1,8 @@
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.BubbleSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.QuickSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.TreeSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.InsertSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.MergeSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.HeapSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.RadixSortTest: DefaultJob' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'SortsTests.RedBlackTreeSortTest: DefaultJob' will not be executed
